@@ -1,0 +1,25 @@
+{
+  "name": "electron-sandbox",
+  "version": "1.0.0",
+  "description": "learning electron by doing",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudh-chhangani/electron-sandbox.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "anirudh chhangani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anirudh-chhangani/electron-sandbox/issues"
+  },
+  "homepage": "https://github.com/anirudh-chhangani/electron-sandbox#readme",
+  "dependencies": {
+    "electron": "^1.6.10"
+  }
+}
