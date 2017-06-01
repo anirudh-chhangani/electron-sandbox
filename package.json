@@ -2,7 +2,7 @@
   "name": "electron-sandbox",
   "version": "1.0.0",
   "description": "learning electron by doing",
-  "main": "main.js",
+  "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
